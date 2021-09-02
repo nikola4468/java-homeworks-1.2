@@ -7,8 +7,8 @@
 На тестирование затрачено: 1 час
 
 ### В результате тестирования выявлены следующие дефекты:
-* https://github.com/nikola4468/java-homeworks-1.2/issues/1
-* https://github.com/nikola4468/java-homeworks-1.2/issues/2
+* [Валидные ключи определяются как не валидные](https://github.com/nikola4468/java-homeworks-1.2/issues/1)
+* [Не валидные ключи определяются как валидные](https://github.com/nikola4468/java-homeworks-1.2/issues/2)
 
 ## Описание процесса тестирования
 
